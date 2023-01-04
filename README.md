@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Gajare</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<center>
-<img  alt="Coding" width="900" height="500" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
-</center>
+<img  alt="Coding" width="400" height="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan28107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan28107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan28107" alt="rohan28107" /></a> </p>
 
-- 🌱 I’m currently learning **React, JavaScript**
+- 🌱 I’m currently learning **React Advance, Node Js**
 
-- 👨‍💻 All of my projects are available at [https://rohan28107.github.io/](https://rohan28107.github.io/)
+- 🔭 I’m currently studying at Masai School
 
 - 💬 Ask me about **MERN**
 
@@ -18,6 +16,12 @@
 - 📄 Checkout my [Resume](https://drive.google.com/file/d/1dW4RpRe9nvD8pbw7erbV9NUjNx1O0S-Z/view?usp=share_link)
 
 - 👨‍💻 [Portfolio](https://rohan28107.github.io/)
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan28107" alt="rohan28107" /></a> </p> -->
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
