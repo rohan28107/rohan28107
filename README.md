@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan28107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan28107" /> </p>
 
 
-- 🌱 I’m currently learning **React Advance, NodeJs**
+- 🌱 I’m currently learning **React Advance**
 
 - 🔭 Currently studying at Masai School
 
