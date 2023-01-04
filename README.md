@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Gajare</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img  alt="Coding" width="800" height="500" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
-
+<center>
+<img  alt="Coding" width="900" height="500" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+</center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan28107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan28107" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan28107" alt="rohan28107" /></a> </p>
@@ -14,7 +15,9 @@
 
 - 📫 How to reach me **rohangajre21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dW4RpRe9nvD8pbw7erbV9NUjNx1O0S-Z/view?usp=share_link](https://drive.google.com/file/d/1dW4RpRe9nvD8pbw7erbV9NUjNx1O0S-Z/view?usp=share_link)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1dW4RpRe9nvD8pbw7erbV9NUjNx1O0S-Z/view?usp=share_link)
+
+- 👨‍💻 [Portfolio](https://rohan28107.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
