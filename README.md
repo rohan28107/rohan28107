@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Gajare</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img  alt="Coding" width="1000" height="600" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img  alt="Coding" width="800" height="500" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan28107&label=Profile%20views&color=0e75b6&style=flat" alt="rohan28107" /> </p>
 
