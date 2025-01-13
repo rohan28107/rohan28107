@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rohangajre21@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1dW4RpRe9nvD8pbw7erbV9NUjNx1O0S-Z/view?usp=share_link)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1CO1K2ENrICmiK4ptpOgs6Fwuz386cd7x/view?usp=drive_link)
 
 - 👨‍💻 [Portfolio](https://rohan28107.github.io/)
 
