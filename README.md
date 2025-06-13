@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Advance**
 
-- 🔭 Currently studying at Masai School
+- 🔭 Currently working at Clarapath Inc
 
 - 💬 Ask me about **MERN** 
 
