@@ -6,14 +6,14 @@
 ---
 
 ### 💼 Currently Working At:
-**Clarapath Inc.** – Full Stack Engineer  
+**Upstox.** – Frontend Engineer  
 Working on modern UI redesigns, scalable backend features, and improving product efficiency.
 
 ---
 
 ### 📌 About Me
 
-- 👨‍💻 4.5+ years of experience in tech, with 2.5 years as an AWS Administrator and 2 years as a Full Stack Developer
+- 👨‍💻 5.5+ years of experience in tech, with 3 years as a Frontend Developer and 2.5 years as an AWS Administrator.
 - 🔧 Building scalable applications using **MERN**, **NestJS**, **GraphQL**, and more
 - 🌍 Love solving real-world problems through code
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1CO1K2ENrICmiK4ptpOgs6Fwuz386cd7x/view?usp=drive_link)
