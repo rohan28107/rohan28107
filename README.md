@@ -16,7 +16,7 @@ Working on modern UI redesigns, scalable backend features, and improving product
 - 👨‍💻 5.5+ years of experience in tech, with 3 years as a Frontend Developer and 2.5 years as an AWS Administrator.
 - 🔧 Building scalable applications using **MERN**, **NestJS**, **GraphQL**, and more
 - 🌍 Love solving real-world problems through code
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1CO1K2ENrICmiK4ptpOgs6Fwuz386cd7x/view?usp=drive_link)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/146FQn-rkECIryxJpx7fcx3m0lx2d9rzi/view?usp=drive_link)
 - 🌐 [Portfolio](https://rohan28107.github.io/)
 - 📬 Reach me at: **rohangajre21@gmail.com**
 
